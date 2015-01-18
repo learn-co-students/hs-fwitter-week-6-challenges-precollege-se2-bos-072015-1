@@ -1,5 +1,5 @@
 ---
-tags: database, kids, ruby, advanced, challenges
+tags: bcrypt, password, kids, ruby, advanced, challenges
 language: ruby
 level: 2
 type: challenges
