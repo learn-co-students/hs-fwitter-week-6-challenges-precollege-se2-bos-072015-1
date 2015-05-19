@@ -5,7 +5,7 @@ level: 2
 type: challenges
 ---
 
-## Week 6 Challenges!
+## Module 6 Challenges!
 
 + Finish up today's ToDo.
 + Check out the Ruby labs on Learn.
